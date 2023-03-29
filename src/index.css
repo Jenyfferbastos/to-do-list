@@ -1,2 +1,9 @@
-
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #6B5085;
+  font-family: 'Courier New', Courier, monospace;
+}
